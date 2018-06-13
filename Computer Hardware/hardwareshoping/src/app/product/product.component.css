@@ -1,0 +1,16 @@
+
+.header{
+    height: 0px;
+    padding-top: 0px;
+   /* box-shadow: 10px 10px 10px gray;*/
+}
+
+.subnav{
+    box-shadow: 1px 1px 1px gray;
+}
+   /* box-shadow: 0,0,0,slategray;*/
+
+.body{
+    padding-top: 20px;
+    box-shadow: 1px 1px 1px gray;
+}
